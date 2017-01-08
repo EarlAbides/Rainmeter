@@ -1,2 +1,2 @@
-# rainmeter
+# Rainmeter
 My Rainmeter skins
